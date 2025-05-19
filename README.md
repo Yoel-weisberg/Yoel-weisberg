@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20World;&height=100&section=header"/>
-  <p align="center" >My name is yoel weisberg</p>
+  <h3 align="center" >My name is yoel weisberg <br> </h3>
 </p>
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
@@ -15,5 +15,3 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yoel-weisberg&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-
-![Snake animation](https://github.com/thepiyushmalhotra/Yoel-weisberg/blob/output/github-contribution-grid-snake.svg)
