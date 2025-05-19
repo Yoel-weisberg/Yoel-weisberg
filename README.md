@@ -15,3 +15,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yoel-weisberg&layout=compact&langs_count=8&card_width=320" />
 </a>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
