@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20World;&height=100&section=header"/>
-  <h3 align="center" >My name is yoel weisberg <br> </h3>
+  <h3 align="center" >My name is Yoel Weisberg <br> </h3>
 </p>
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
